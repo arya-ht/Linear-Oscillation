@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+/*
+ *created by Arya HajiTaheri
+ */
 #define PI 3.14159265358979323846
 int main() {
 	double omega = 0.01, dt = 0.01, posX = 10.0, velocity = 0.0, time = 0.0;
