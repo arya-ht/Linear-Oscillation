@@ -5,7 +5,7 @@
  *created by Arya HajiTaheri
  */
 #define PI 3.14159265358979323846
-int main() {
+int main(void) {
 	double omega = 0.01, dt = 0.01, posX = 10.0, velocity = 0.0, time = 0.0;
 	double gravity, length;
 	double tmpx = 10.0, tmpvelocity = 0.0;
